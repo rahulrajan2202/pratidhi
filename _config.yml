@@ -42,7 +42,13 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+   
+# Comments
+layout: default
+comments: true
     
 # Other
 markdown: kramdown
 highlighter: rouge
+
+

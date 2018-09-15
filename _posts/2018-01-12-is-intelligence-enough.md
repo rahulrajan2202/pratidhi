@@ -1,5 +1,5 @@
 ---
-layout: post right sidebar
+layout: post 
 title:  "Is Intelligence Enough"
 author: sal
 categories: [ Jekyll, tutorial ]

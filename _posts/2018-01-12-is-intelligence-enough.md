@@ -7,7 +7,7 @@ image: assets/images/5.jpg
 ---
 Education must also train one for quick, resolute and effective thinking. To think incisively and to think for one's self is very difficult. 
 
-This is a test post to prove that I own the website and that I can put links as <p><a href="https://www.google.com/">anchor</a></p> text.
+This is a test post to prove that I own the website and that I can put links as <p><a href="https://www.google.com/"></a>anchor</p> text.
 
 
 > We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically. 

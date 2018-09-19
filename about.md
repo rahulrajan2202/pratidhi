@@ -49,7 +49,7 @@ We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim 
 #### How to Use
 Pratidhi is a private organization that aims to provide pure and authentic Ayurveda. We are completely result-oriented as all our raw materials are fresh and non-adulterated.“Pratidhi”is the Sanskrit terminology for“hope”. We strive to give the best so that our client's hope is not questioned at any point of the treatment and we also hope to see our guests as regular
 customers for every season in the industry and so we rightfully say “revitalizing you with an aura of hope”.
-_blank"}. :
+
 
 [Book](https://pratidhiayurvedichealthcare.com/contact){:target="_blank"} *an online Free consultation*. 
 - In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, Disqus username, Authors, Mailchimp, ShareThis code (https://www.sharethis.com/) etc.

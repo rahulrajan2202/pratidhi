@@ -10,7 +10,7 @@ We are busy these days investing in properties, gold , funds etc. Have you ever 
 
 We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim is to provide treatment with all *purity* to obtain its desired results.
 
-<a href="https://pratidhiayurvedichealthcare.com/contact" target="_blank">Book Now - Consult with an expert</a>
+<a href="https://pratidhiayurvedichealthcare.com/contact" target="_blank">Book Now - Free Consultation with an Expert</a>
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 

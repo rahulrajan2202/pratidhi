@@ -61,3 +61,10 @@ pure authentic ayurveda experience. We are always on the move to provide the bes
 Ayurveda - meaning Science of Life is not a mere form of medication but a solid experience when performed theright way. Our panel of doctors and therapists have their expertise in evidence based Ayurveda.
 We focus on human touch, care and outcomes, being a nonprofit organization. When you leave PRATIDHI, you carry an experience for life.
 Come and enjoy our packages and offers, after all your smiles are the trophies we attain.
+
+#### Our Expertise
+
+- Psoriasis
+- Weight Loss
+- Slip Disc
+- Cervical Spondylysis

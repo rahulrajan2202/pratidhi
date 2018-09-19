@@ -20,33 +20,15 @@ We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim 
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
 
-#### Features
+#### Our Expertise
 
-- Built for Jekyll
-- Compatible with Github pages
-- Featured Posts
-- Index Pagination
-- Post Categories
-- Prev/Next Link
-- Category Archives (this is not yet compatible with github pages though)
-- Integrations:
-    - Disqus Comments
-    - Google Analaytics
-    - Mailchimp Integration
-    - Sharethis Integration
-    - Formspree.io Contact
-- Design Features:
-    - Bootstrap v4.0.0-alpha.6
-    - Font Awesome
-    - Masonry
-- Layouts:
-    - Default
-    - Post left sidebar
-    - Post right sidebar
-    - Page
-    - Archive
+- Psoriasis
+- Weight Loss
+- Slip Disc
+- Cervical Spondylysis
+
     
-#### How to Use
+#### Who we are?
 Pratidhi is a private organization that aims to provide pure and authentic Ayurveda. We are completely result-oriented as all our raw materials are fresh and non-adulterated.“Pratidhi”is the Sanskrit terminology for“hope”. We strive to give the best so that our client's hope is not questioned at any point of the treatment and we also hope to see our guests as regular
 customers for every season in the industry and so we rightfully say “revitalizing you with an aura of hope”.
 
@@ -62,9 +44,3 @@ Ayurveda - meaning Science of Life is not a mere form of medication but a solid 
 We focus on human touch, care and outcomes, being a nonprofit organization. When you leave PRATIDHI, you carry an experience for life.
 Come and enjoy our packages and offers, after all your smiles are the trophies we attain.
 
-#### Our Expertise
-
-- Psoriasis
-- Weight Loss
-- Slip Disc
-- Cervical Spondylysis

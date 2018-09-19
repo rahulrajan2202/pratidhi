@@ -52,52 +52,6 @@ customers for every season in the industry and so we rightfully say “revitaliz
 
 
 [Book](https://pratidhiayurvedichealthcare.com/contact){:target="_blank"} *an online Free consultation*. 
-- In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, Disqus username, Authors, Mailchimp, ShareThis code (https://www.sharethis.com/) etc.
-- Affiliates requires 2 plugins: 
-    - <code>$ gem install jekyll-paginate</code>
-    - <code>$ gem install jekyll-archives</code>.
-- Locate the files and customize:
-    - header & footer in <code>default.html</code>. 
-    - homepage in <code>index.html</code>
-    - contact form in <code>contact.html</code> (https://formspree.io/)
-    - post sidebar in <code>includes/sidebar.html</code>
-    - sign up form in <code>includes/newsletter.html</code>
-- Start blogging by adding your .md files in <code>_posts</code>. You will see in examples in the download.
-- YAML front matter
-    - post featured - <code>featured:true</code>
-    - post featured image - <code>image: assets/images/mypic.jpg</code>
-    - page comments - <code>comments:true</code>
-    - meta description (optional) - <code>description: "this is my meta description"</code>
+We function as an Ayurvedic clinic with expertise in all Ayurvedic Panchakarma Treatments.
+We also provide relaxation packages for our clients.
     
-YAML Post Example:
-<pre class="highlight">
----
-layout: post
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
-
-YAML Post Sidebar Right Example:
-<pre class="highlight">
----
-layout: post-sidebar-right
-title:  "We all wait for summer"
-author: john
-categories: [ Jekyll, tutorial ]
-image: assets/images/5.jpg
-featured: true
----
-</pre>
-
-YAML Page Example
-<pre class="highlight">
----
-layout: page
-title: Affiliates Template for Jekyll
-comments: true
----
-</pre>

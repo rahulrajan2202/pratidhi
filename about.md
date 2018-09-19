@@ -47,8 +47,9 @@ We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim 
     - Archive
     
 #### How to Use
-
-If you aren't familiar with Jekyll yet, you should know that it is a static site generator. It will transform your plain text into static websites and blogs. If you are a beginner we recommend you start with [Jekyll's Docs](https://jekyllrb.com/docs/installation/){:target="_blank"}. Now if you know how to use Jekyll, let's move on to using Affiliates template in Jekyll:
+Pratidhi is a private organization that aims to provide pure and authentic Ayurveda. We are completely result-oriented as all our raw materials are fresh and non-adulterated.“Pratidhi”is the Sanskrit terminology for“hope”. We strive to give the best so that our client's hope is not questioned at any point of the treatment and we also hope to see our guests as regular
+customers for every season in the industry and so we rightfully say “revitalizing you with an aura of hope”.
+_blank"}. :
 
 [Download](https://gum.co/affiliates-jekyll-template){:target="_blank"} or Fork *Affiliates for Jekyll*. 
 - In your local project, open <code>_config.yml</code>. If your site is in root, for <code>baseurl</code>, make sure this is set to <code>baseurl: /</code>. Also, change your Google Analytics code, Disqus username, Authors, Mailchimp, ShareThis code (https://www.sharethis.com/) etc.

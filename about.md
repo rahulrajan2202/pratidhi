@@ -6,9 +6,9 @@ comments: true
 
 We are busy these days investing in properties, gold , funds etc. Have you ever thought of investing on your own health and your body in which you reside a lifetime? Many of us have begun the trend of investing in Life insurances which benefits our families only. And the maximum we do for our health is to take Health Insurance which is to treat a disease condition that has already taken control of our system. Prevention is better than cure. It's high time we start thinking of our precious health and start investing for it. HEALTH is our real WEALTH. Ayurveda (science of life) not only treats existing diseases but also revitalizes the health of our cells.
 
-**License & Download**
+**PRATIDHI Ayurvedic Heath Care- the authentic Ayurvedic people**
 
-"We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim is to provide treatment with all *purity* to obtain its desired results.
+We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim is to provide treatment with all *purity* to obtain its desired results.
 
 <a href="https://gum.co/affiliates-jekyll-template" target="_blank">Download - Affiliates Jekyll Theme</a>
 

@@ -4,7 +4,7 @@ title: About
 comments: true
 ---
 
-This website is built with Jekyll and "Affiliates" (a Jekyll Template designed & developed by WowThemes.net). It is meant for demonstration purposes, so you can have an idea of how this theme looks in action so no real content can be found. Affiliates template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github. This page in example shows a page layout.
+We are busy these days investing in properties, gold , funds etc. Have you ever thought of investing on your own health and your body in which you reside a lifetime? Many of us have begun the trend of investing in Life insurances which benefits our families only. And the maximum we do for our health is to take Health Insurance which is to treat a disease condition that has already taken control of our system. Prevention is better than cure. It's high time we start thinking of our precious health and start investing for it. HEALTH is our real WEALTH. Ayurveda (science of life) not only treats existing diseases but also revitalizes the health of our cells .We, at Pratidhi are here to assist you in this”Process of Prevention.”Our aim is to provide treatment with all purity to obtain its desired results.
 
 **License & Download**
 

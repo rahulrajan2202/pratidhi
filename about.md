@@ -55,3 +55,9 @@ customers for every season in the industry and so we rightfully say “revitaliz
 We function as an Ayurvedic clinic with expertise in all Ayurvedic Panchakarma Treatments.
 We also provide relaxation packages for our clients.
     
+At PRATIDHI, we constantly strive to make our clients and well wishers rejuvenated by constantly soothing them with
+pure authentic ayurveda experience. We are always on the move to provide the best service and treatment.We provide various treatments ranging from simple revitalization therapies to Panchakarma treatments. We strongly believe that our nature is filled with remedies to all health related issues and the right blend of herbs can give far-reaching results.
+
+Ayurveda - meaning Science of Life is not a mere form of medication but a solid experience when performed theright way. Our panel of doctors and therapists have their expertise in evidence based Ayurveda.
+We focus on human touch, care and outcomes, being a nonprofit organization. When you leave PRATIDHI, you carry an experience for life.
+Come and enjoy our packages and offers, after all your smiles are the trophies we attain.

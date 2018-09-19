@@ -20,7 +20,7 @@ We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim 
 - Psoriasis
 - Weight Loss
 - Slip Disc
-- Cervical Spondylysis
+- Cervical Spondylosis
 
     
 #### Who we are?

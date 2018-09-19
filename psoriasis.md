@@ -12,7 +12,7 @@ We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim 
 
 <a href="https://pratidhiayurvedichealthcare.com/contact" target="_blank">Book Now - Free Consultation with an Expert</a>
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/psoriasis treatments.jpg)
 
 
 #### Our Expertise

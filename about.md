@@ -14,11 +14,6 @@ We, at Pratidhi are here to assist you in this"Process of Prevention”.Our aim 
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme1.jpg)
 
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme2.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme3.jpg)
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
 
 #### Our Expertise
 

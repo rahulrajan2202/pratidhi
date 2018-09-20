@@ -51,4 +51,4 @@ comments: true
 markdown: kramdown
 highlighter: rouge
 
-
+exclude: [node_modules, README.md]
